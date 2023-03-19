@@ -1,0 +1,2 @@
+second file was added as txt file format extention
+adding 2nd command line 
